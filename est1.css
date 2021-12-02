@@ -1,0 +1,16 @@
+/* Colores, tamaños y tipo de letra */
+a {color:blue; font-size:12px;}
+body {font-family:verdana;}
+body {background: #0CB7F2}
+caption {color:#000; font-size:14px;}
+h1 {color:#0000FF; font-size:20px;}
+h2 {color:#0000FF; font-size:16px;}
+p, li, td {color:#000; font-size:12px;} 
+th {color:white; font-size:12px;}
+/* Tabla */
+table, td, th {border:1px solid black;}
+table {border-collapse:collapse;}
+td, th {padding:10px;}
+thead {background:#4c2882;}
+tfoot {background:#008f39;}
+button {background:#FFE900;}
